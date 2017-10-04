@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context="com.github.darsha1509.inventoryapp.CatalogActivity">
 
-    <TextView
+    <ListView
         android:id="@+id/list_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
